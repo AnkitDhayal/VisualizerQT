@@ -21,7 +21,7 @@ Ensure you have Qt installed on your system.
 Open the project in Qt Creator.
 Build and run the project.
 ## Clone the project 
-git clone 
+git clone https://github.com/AnkitDhayal/VisualizerQT.git
 ## Usage
 Click the "ADD" button to add points for curve rendering.
 Use the "Bezier Curve," "Hermite Curve," and "BSplineCurve Curve" buttons to visualize different types of curves.

@@ -19,7 +19,7 @@ To use the Bezier curve DLL in your project:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/bezier-curve-dll.git
+    git clone https://github.com/AnkitDhayal/Visualizer/bezier-curve-dll.git
     cd bezier-curve-dll
     ```
 
